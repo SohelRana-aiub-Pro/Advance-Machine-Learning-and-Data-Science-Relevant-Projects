@@ -5,5 +5,5 @@
    Data Availability Statements; https://www.kaggle.com/competitions/senior-ml-engineer-2023-07-12/data
    
 ->Data Science-Screening Assignment G2 -Cohort 3;
-   Data Availability Statements;
+   Data Availability Statements; http://roycekimmons.com/tools/generated_data/exams or 
 

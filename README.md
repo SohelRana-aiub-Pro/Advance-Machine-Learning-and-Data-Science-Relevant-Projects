@@ -6,6 +6,10 @@
 
    Data Availability Statements; https://www.kaggle.com/competitions/senior-ml-engineer-2023-07-12/data
 
+-> Anomaly Detection in Blockchain System Via ML;
+
+Data Availability Statements; https://www.kaggle.com/datasets/bigquery/bitcoin-blockchain
+
 ->Human Activity Recognition Via Smartphones-ML;
 
   Data Availability Statements; https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones

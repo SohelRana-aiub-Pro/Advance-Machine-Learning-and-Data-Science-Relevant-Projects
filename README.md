@@ -10,6 +10,10 @@
 
 Data Availability Statements; https://www.kaggle.com/datasets/bigquery/bitcoin-blockchain
 
+->Portuguese Banking Data -ML Predictions;
+
+  Data Availability Statements; https://www.kaggle.com/datasets/mrsohelranapro/portuguese-bank-marketing-dataset
+
 ->Human Activity Recognition Via Smartphones-ML;
 
   Data Availability Statements; https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones
@@ -25,3 +29,6 @@ Data Availability Statements; https://www.kaggle.com/datasets/bigquery/bitcoin-b
 ->Data Science-Screening Assignment G2 -Cohort 3;
 
    Data Availability Statements; http://roycekimmons.com/tools/generated_data/exams or  https://www.kaggle.com/spscientist/students-performance-in-exams.
+
+->
+ Data Availability Statements; https://www.kaggle.com/datasets/sergylog/ab-test-data

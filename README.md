@@ -1,4 +1,4 @@
-1->Customer-Personality-Analysis vie ML Models; Question about scen
+1->Customer-Personality-Analysis vie ML Models;
 
   Data Availability Statements; https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
   

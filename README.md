@@ -1,4 +1,4 @@
-1->Customer-Personality-Analysis vie ML Models; Question about the scen
+1->Customer-Personality-Analysis vie ML Models;
 
   Data Availability Statements; https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
   
@@ -9,6 +9,7 @@
 3-> Anomaly Detection in Blockchain System Via ML;
 
   Data Availability Statements; https://www.kaggle.com/datasets/bigquery/bitcoin-blockchain
+
 
 4->Portuguese Banking Data -ML Predictions;
 
@@ -29,6 +30,5 @@
 8->Data Science-Screening Assignment G2 -Cohort 3;
 
   Data Availability Statements; http://roycekimmons.com/tools/generated_data/exams or  https://www.kaggle.com/spscientist/students-performance-in-exams.
-
 10-> AB testing for Tabular Data;
   Data Availability Statements; https://www.kaggle.com/datasets/sergylog/ab-test-data
